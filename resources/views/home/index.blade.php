@@ -3,10 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>De Gracia Mathieu</title>
-    <script src="https://s.codepen.io/assets/libs/modernizr.js" type="text/javascript"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
-    <link rel="stylesheet" href="css/style.css">
-    <link href='https://fonts.googleapis.com/css?family=Raleway:500,400,300,200,100' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/app.css">
 </head>
 <body>
 <canvas class="container" id="container" role="main"></canvas>
@@ -43,9 +40,6 @@
 </div>
 <div class="blur blurTop"><canvas class="canvas" id="blurCanvasTop"></canvas></div>
 <div class="blur blurBottom"><canvas width="1000px" height="1000px" class="canvas" id="blurCanvasBottom"></canvas></div>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/snap.svg/0.3.0/snap.svg-min.js'></script>
-<script src='https://use.fontawesome.com/077f6cf5eb.js'></script>
-<script src="js/index.js"></script>
+<script src="js/app.js"></script>
 </body>
 </html>
