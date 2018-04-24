@@ -6,7 +6,5 @@
  */
 
 require('./bootstrap');
-// require('font-awesome');
 require('snapsvg');
-// require('jquery');
 require('./particules.js');
