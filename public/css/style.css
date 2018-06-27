@@ -64,7 +64,7 @@ p.desc{
   color:rgba(255,255,255,1);
 }
 .contact li~li {
-  margin-left:1vw; 
+  margin-left:1vw;
 }
 .blur {
   width:100%;
