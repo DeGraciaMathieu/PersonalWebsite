@@ -9,7 +9,7 @@
 <canvas class="container" id="container" role="main"></canvas>
 <div class="content">
     <h1 class="title">De Gracia Mathieu</h1>
-    <p class="desc">Developpeur Web #laravel</p>
+    <p class="desc">Lead Tech #laravel</p>
     <ul class="contact">
         <li>
             <a href="mailto:degracia.mathieu@gmail.com">
